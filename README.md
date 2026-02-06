@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection: Machine Learning & Deep Learning Study 🛡️💳
+# Credit Card Fraud Detection: Machine Learning & Deep Learning Study 
 
 ## 📌 Project Overview
 This project focuses on identifying fraudulent credit card transactions using a highly imbalanced dataset. As the **Team Leader**, I led the implementation of various advanced techniques to handle data imbalance, ensuring that our models can accurately detect fraud while minimizing false alarms.
@@ -27,7 +27,7 @@ The dataset used in this project is the **Credit Card Fraud Detection** dataset 
 * Implemented **t-SNE, PCA, and Truncated SVD** to visualize the clusters.
 * **t-SNE** successfully separated fraud and non-fraud cases in a 2D space, indicating that our predictive models would perform well.
 
-[Image of t-SNE clustering visualization for fraud detection]
+[<img width="1292" height="400" alt="image" src="https://github.com/user-attachments/assets/a555c36f-aeeb-4da2-a46c-dac6e12e9c86" />]
 
 ### 3. Handling Class Imbalance
 * **Random Under-sampling:** Created a 50/50 balanced sub-sample to analyze feature relations without bias.
